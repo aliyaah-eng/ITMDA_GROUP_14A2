@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@android:drawable/ic_menu_today"
+        android:title="Home" />
+    <item
+        android:id="@+id/nav_add"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="Add Device" />
+    <item
+        android:id="@+id/nav_survey"
+        android:icon="@android:drawable/ic_menu_edit"
+        android:title="Survey" />
+    <item
+        android:id="@+id/nav_telemetry"
+        android:icon="@android:drawable/ic_menu_sort_by_size"
+        android:title="Telemetry" />
+</menu>

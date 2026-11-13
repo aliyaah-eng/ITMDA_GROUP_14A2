@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SecureHomes</string>
+    <string name="title_dashboard">Smart Home Control</string>
+    <string name="title_add_device">Add Smart Device</string>
+    <string name="title_wizard">Configuration Wizard</string>
+    <string name="title_survey">Usability &amp; Workload Survey</string>
+    <string name="title_analytics">Research Telemetry</string>
+</resources>
